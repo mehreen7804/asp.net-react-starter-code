@@ -1,0 +1,89 @@
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\Web API.dll.config
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\Web API.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\Web API.pdb
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\csc.exe
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\csc.exe.config
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\csc.rsp
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\csi.exe
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\csi.exe.config
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\csi.rsp
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.AppContext.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Console.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\vbc.exe
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\vbc.exe.config
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\vbc.rsp
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\Antlr3.Runtime.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\Newtonsoft.Json.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Net.Http.Formatting.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Helpers.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Http.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Http.WebHost.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Mvc.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Optimization.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Razor.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.WebPages.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\WebGrease.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\Newtonsoft.Json.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Net.Http.Formatting.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Helpers.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Http.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Http.WebHost.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Mvc.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Optimization.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Razor.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.WebPages.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\Antlr3.Runtime.pdb
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mehrin\source\repos\Web API\Web API\obj\Debug\Web API.csprojAssemblyReference.cache
+C:\Users\Mehrin\source\repos\Web API\Web API\obj\Debug\Web API.csproj.CoreCompileInputs.cache
+C:\Users\Mehrin\source\repos\Web API\Web API\obj\Debug\Web API.csproj.CopyComplete
+C:\Users\Mehrin\source\repos\Web API\Web API\obj\Debug\Web API.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\obj\Debug\Web API.pdb
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Cors.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Http.Cors.dll
+C:\Users\Mehrin\source\repos\Web API\Web API\bin\System.Web.Http.Cors.xml
